@@ -8,5 +8,8 @@ O código tem como objetivo calcular descontos aplicados a uma compra, na qual o
 - operadores relacionais 
 - float/input
 
-## Saída 
+## Primeira execução 
 <img width="818" height="835" alt="image" src="https://github.com/user-attachments/assets/c183d716-774f-4a46-831f-f347c9443a49" />
+
+## Linguagem utilizada
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)

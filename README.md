@@ -4,8 +4,9 @@ O código tem como objetivo calcular descontos aplicados a uma compra, na qual o
 
 ## O que foi aplicado
 
-    - if/elif/else
-    - operadores relacionais 
-    - float/input
+- if/elif/else
+- operadores relacionais 
+- float/input
 
 ## Saída 
+<img width="818" height="835" alt="image" src="https://github.com/user-attachments/assets/c183d716-774f-4a46-831f-f347c9443a49" />
